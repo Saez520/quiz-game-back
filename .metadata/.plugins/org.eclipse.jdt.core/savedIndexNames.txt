@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Practica\quiz-game\quiz-game-back\.metadata\.plugins\org.eclipse.jdt.core
+3429065830.index
+2059024574.index
+933598592.index
+1865797976.index
+3883950653.index

@@ -1,0 +1,21 @@
+
+package com.quizgame.quiz.game;
+
+/**
+ *
+ * @author juan.saez
+ */
+public class questionsService {
+    public static void createQuestionsBD() {
+    }
+
+    public static void readQuestionsBD() {
+    }
+
+    public static void updateQuestionsBD() {
+    }
+
+    public static void deleteQuestionsBD() {
+    }
+
+}
